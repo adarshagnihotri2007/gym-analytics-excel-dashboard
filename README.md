@@ -48,7 +48,7 @@ The dashboard is designed for **decision-makers**, not just reporting.
 ## 📈 Dashboard Preview
 > 👇 Fully interactive Excel dashboard (filters update all KPIs & charts)
 
-![Gym Analytics Dashboard](Screenshots/dashboard_full_view.png)
+![Gym Analytics Dashboard](Screenshots/dashboard_full_view.png.png)
 
 ---
 
